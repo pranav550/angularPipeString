@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angularPipeString';
+  name:string="Rahul";
+  postion:string="software developer"
+  work:string="software development"
 }
